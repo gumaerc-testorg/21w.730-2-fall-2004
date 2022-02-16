@@ -1,5 +1,6 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Readings
 uid: 229b51b4-9026-93af-dd1e-33722c284cbd
 ---
