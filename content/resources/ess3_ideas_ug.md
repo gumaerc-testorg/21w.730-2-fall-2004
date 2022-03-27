@@ -4,7 +4,12 @@ description: A student's final draft for the Essay III assignment. Sample studen
   essay courtesy of Eleojo Ocholi. Used with permission.
 file: /media/courses/21w-730-2-the-creative-spark-fall-2004/292d1530170462c44dfde3fa4c377bc4_ess3_ideas_ug.pdf
 file_type: application/pdf
-learning_resource_types: []
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+parent_uid: bc95e690-5ceb-0919-503e-cc37d34ee356
 resourcetype: Document
 title: ess3_ideas_ug.pdf
 uid: 292d1530-1704-62c4-4dfd-e3fa4c377bc4
