@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-730-2-the-creative-spark-fall-2004/4af02006ed242ca4b343e3d2f1f407a4_res_gl_mla_style.pdf
+file: /courses/21w-730-2-the-creative-spark-fall-2004/4af02006ed242ca4b343e3d2f1f407a4_res_gl_mla_style.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
