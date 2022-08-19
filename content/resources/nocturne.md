@@ -6,6 +6,7 @@ file: /courses/21w-730-2-the-creative-spark-fall-2004/b948415a3b029388469254618e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nocturne.pdf
 uid: b948415a-3b02-9388-4692-54618e51eb21
 ---
 A student's final draft for the Essay I assignment. Sample student essay courtesy of an Anonymous Student. Used with permission.
-

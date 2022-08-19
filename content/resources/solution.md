@@ -6,6 +6,7 @@ file: /courses/21w-730-2-the-creative-spark-fall-2004/6be679fce0cfdca361f4939545
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: solution.pdf
 uid: 6be679fc-e0cf-dca3-61f4-9395454055bc
 ---
 A student's final draft for the Essay III assignment. Sample student essay courtesy of Stephen Oglesby. Used with permission.
-

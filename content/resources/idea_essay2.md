@@ -4,6 +4,7 @@ description: ''
 file: /courses/21w-730-2-the-creative-spark-fall-2004/a0a4858c61c6530281922fe9d1bf9a7e_idea_essay2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

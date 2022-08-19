@@ -6,6 +6,7 @@ file: /courses/21w-730-2-the-creative-spark-fall-2004/292d1530170462c44dfde3fa4c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ess3_ideas_ug.pdf
 uid: 292d1530-1704-62c4-4dfd-e3fa4c377bc4
 ---
 A student's final draft for the Essay III assignment. Sample student essay courtesy of Eleojo Ocholi. Used with permission.
-

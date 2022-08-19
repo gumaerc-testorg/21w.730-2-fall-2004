@@ -6,6 +6,7 @@ file: /courses/21w-730-2-the-creative-spark-fall-2004/4a8f558352a0305c1f329de0f3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rock_music.pdf
 uid: 4a8f5583-52a0-305c-1f32-9de0f3f19564
 ---
 A student's final draft for the Essay III assignment. Sample student essay courtesy of Constantinos Melachrinos. Used with permission.
-

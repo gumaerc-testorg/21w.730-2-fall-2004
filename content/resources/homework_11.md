@@ -5,6 +5,7 @@ file: /courses/21w-730-2-the-creative-spark-fall-2004/357a71c38ecc562f873b03bb3f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework_11.pdf
 uid: 357a71c3-8ecc-562f-873b-03bb3fa82123
 ---
 Instructions for a brief writing assignment.
-
