@@ -2,7 +2,8 @@
 content_type: resource
 description: A student's final draft for the Essay III assignment. Sample student
   essay courtesy of Eleojo Ocholi. Used with permission.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/292d1530170462c44dfde3fa4c377bc4_ess3_ideas_ug.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/292d1530170462c44dfde3fa4c377bc4_ess3_ideas_ug.pdf
+file_size: 114382
 file_type: application/pdf
 learning_resource_types:
 - Assignments

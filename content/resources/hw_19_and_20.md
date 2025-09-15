@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Instructions for essay revision.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/e6c7a09c27a9ba52712dc320c4c0e6d4_hw_19_and_20.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/e6c7a09c27a9ba52712dc320c4c0e6d4_hw_19_and_20.pdf
+file_size: 122048
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: Instructions and guidelines for the second essay assignment, along with
   a timeline for revisions.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/0897a1a7286b232da5c9bbab93449cb7_essay_ii_rev.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/0897a1a7286b232da5c9bbab93449cb7_essay_ii_rev.pdf
+file_size: 160345
 file_type: application/pdf
 learning_resource_types:
 - Assignments

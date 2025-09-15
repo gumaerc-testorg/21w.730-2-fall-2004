@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: A list of suggested films to be used for the second essay assignment.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/b29aa7c37c88bab50c35cedc58da3ae3_film_list2.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/b29aa7c37c88bab50c35cedc58da3ae3_film_list2.pdf
+file_size: 110288
 file_type: application/pdf
 learning_resource_types:
 - Assignments

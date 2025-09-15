@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21w-730-2-the-creative-spark-fall-2004/4af02006ed242ca4b343e3d2f1f407a4_res_gl_mla_style.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/4af02006ed242ca4b343e3d2f1f407a4_res_gl_mla_style.pdf
+file_size: 147572
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

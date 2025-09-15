@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Reading assignment and essay revision instructions.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/1eb002f998a61bdb2bad09b9ecdeaed7_hw_16_and_17.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/1eb002f998a61bdb2bad09b9ecdeaed7_hw_16_and_17.pdf
+file_size: 57107
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: Instructions and guidelines for the third and final essay assignment,
   along with a timeline for revisions.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/b220306cc7d93051936034faff6ab4e9_essay_iii.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/b220306cc7d93051936034faff6ab4e9_essay_iii.pdf
+file_size: 162145
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: Student's final draft for the Essay III assignment. Sample student essay
   courtesy of Rafael Maldonado. Used with permission.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/5d6bffb52ce755e2c7a063107fed0883_koestler.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/5d6bffb52ce755e2c7a063107fed0883_koestler.pdf
+file_size: 58672
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Instructions for a brief writing assignment.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/f23140e7391a8ddf5ae13c78f2cef174_homework_7.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/f23140e7391a8ddf5ae13c78f2cef174_homework_7.pdf
+file_size: 96119
 file_type: application/pdf
 learning_resource_types:
 - Assignments

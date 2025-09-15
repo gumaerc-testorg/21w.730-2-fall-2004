@@ -2,7 +2,8 @@
 content_type: resource
 description: A student's final draft for the Essay I assignment. Sample student essay
   courtesy of Omri Schwartz. Used with permission.
-file: /courses/21w-730-2-the-creative-spark-fall-2004/b1ef9822f1cfcdf167cbcd220aab6157_anthro_crtvty.pdf
+file: /ol-ocw-studio-app/courses/21w-730-2-the-creative-spark-fall-2004/b1ef9822f1cfcdf167cbcd220aab6157_anthro_crtvty.pdf
+file_size: 177615
 file_type: application/pdf
 learning_resource_types:
 - Assignments
