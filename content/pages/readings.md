@@ -28,7 +28,7 @@ Sacks, Oliver. Chapters 7, and 8 in _Uncle Tungsten: Memories of a Chemical Boyh
 
 McAuliffe, Kathleen. "The Undiscovered World of Thomas Edison." _The Atlantic Monthly,_ December 1995, 80-93.
 
-Gladwell, Malcolm. "The Televisionary." _The New Yorker,_ May 2002, 112-116. (This article is available at: [https://www.ted.com/speakers/malcolm\_gladwell](https://www.ted.com/speakers/malcolm_gladwell))
+Gladwell, Malcolm. "The Televisionary." _The New Yorker,_ May 2002, 112-116. (This article is available at: {{% resource_link "7290c82e-c967-4b17-9b0e-ae96e9a3d5ac" "https://www.ted.com/speakers/malcolm\_gladwell" %}})
 
 Rollo, May. Preface, chapters 1, 2, 3, 4, and 7, and sections 1-5. In _The Courage to Create_. New York, NY: Bantam Books, 1982, pp. 7-8, 11-73, 124-140. ISBN: 9780553228953.
 
